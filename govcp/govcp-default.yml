@@ -11,4 +11,4 @@ feign:
   hystrix:
     enabled: true
 tyrone:
-  test: haha
+  test: hahahaha
